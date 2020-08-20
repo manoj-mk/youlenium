@@ -5,16 +5,16 @@ But I couldn't find a way to transfer my subscribed channels. And hence decided 
 
 -----------
 #### Follow the below steps to accomplish the task 👣
-###### step-1 ⭐
+###### step-⭐
 - The first thing you need to do is to go to your old Youtube account and download subscribers xml file. [See Here](https://www.thewindowsclub.com/transfer-youtube-subscriptions-from-one-account-to-another)
 - Convert xml file into json online. [Here](https://www.freeformatter.com/xml-to-json-converter.html) 
 
-###### step-2 ⭐⭐
+###### step-⭐⭐
 - Import that json file in python and extract channel ids from it.
 - Create new file and add links to all channel in it. for example https:/ /youtube/channel/CHANNEL_ID 
 
-###### step-3 ⭐⭐⭐
+###### step-⭐⭐⭐
 - Login into google account using selenium
 - Go through each link stored in file from step-2;
 - Click subscribe button with selenium
-👏👏👏🎉
+###### 👏👏👏🎉💐
